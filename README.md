@@ -17,3 +17,22 @@ Segue em anexo o resultado do nível 10 do módulo Maze.
 <img width="910" height="363" alt="image" src="https://github.com/user-attachments/assets/1ea060ef-193a-4f3a-8de7-fbbe8adc6986" />
 
 
+Segue em anexo o resultado da reprodução do desenho. 
+
+<img width="1887" height="839" alt="Captura de ecrã 2026-09-22 211516" src="https://github.com/user-attachments/assets/1e4ff510-332b-4704-8f01-7eae2f297568" />
+<img width="1852" height="851" alt="Captura de ecrã 2026-09-22 211607" src="https://github.com/user-attachments/assets/03eaa679-93b9-490e-b314-f5e36c118469" />
+<img width="1872" height="863" alt="Captura de ecrã 2026-09-22 211637" src="https://github.com/user-attachments/assets/099e4dd9-3b3f-4803-b73f-141a992dee38" />
+<img width="1833" height="797" alt="Captura de ecrã 2026-09-22 211658" src="https://github.com/user-attachments/assets/2b4350c4-156c-4c40-9b61-5581fb0161d5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
